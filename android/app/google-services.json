@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142810387368",
+    "project_id": "printinyay-3679d",
+    "storage_bucket": "printinyay-3679d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142810387368:android:51d5529f1c9230b8b8839d",
+        "android_client_info": {
+          "package_name": "com.fooddeliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142810387368-5np1j14di77od0dkc1v3o5655lkib94a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeO1AGYWLtqPbou3Yxpbv-dca0LFEcMnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142810387368-5np1j14di77od0dkc1v3o5655lkib94a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
